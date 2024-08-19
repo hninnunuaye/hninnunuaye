@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on data scrapping, data cleaning, data analysis and data visualization projects.
+- 🌱 I’m learning Generative AI, Business Analytics & Big Data.
+- 💬 Ask me about data analysis and library technologies.
+- 📫 How to reach me: hninnunuaye@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Burmese-born, UK-based, always curious and learning.
+- 👩🏻‍🏫 Here are my socials links: https://www.facebook.com/datadiaries
+
 <!--
 **hninnunuaye/hninnunuaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
